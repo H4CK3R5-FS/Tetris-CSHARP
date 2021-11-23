@@ -1,0 +1,20 @@
+TETRIS CSHARP
+============
+
+
+
+Terrain :
+1) remplir le terrain + delimitation
+2) afficher le tout
+3) afficher forme random + deplacement vers le bas
+
+
+
+
+forme:
+carre 
+4
+T
+I
+L
+
