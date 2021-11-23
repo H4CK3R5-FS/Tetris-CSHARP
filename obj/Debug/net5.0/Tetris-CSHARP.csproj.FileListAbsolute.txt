@@ -1,0 +1,16 @@
+C:\Users\sfeka\Desktop\Tetris-CSHARP\bin\Debug\net5.0\Tetris-CSHARP.exe
+C:\Users\sfeka\Desktop\Tetris-CSHARP\bin\Debug\net5.0\Tetris-CSHARP.deps.json
+C:\Users\sfeka\Desktop\Tetris-CSHARP\bin\Debug\net5.0\Tetris-CSHARP.runtimeconfig.json
+C:\Users\sfeka\Desktop\Tetris-CSHARP\bin\Debug\net5.0\Tetris-CSHARP.runtimeconfig.dev.json
+C:\Users\sfeka\Desktop\Tetris-CSHARP\bin\Debug\net5.0\Tetris-CSHARP.dll
+C:\Users\sfeka\Desktop\Tetris-CSHARP\bin\Debug\net5.0\ref\Tetris-CSHARP.dll
+C:\Users\sfeka\Desktop\Tetris-CSHARP\bin\Debug\net5.0\Tetris-CSHARP.pdb
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.csproj.AssemblyReference.cache
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.AssemblyInfoInputs.cache
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.AssemblyInfo.cs
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.dll
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\ref\Tetris-CSHARP.dll
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.pdb
+C:\Users\sfeka\Desktop\Tetris-CSHARP\obj\Debug\net5.0\Tetris-CSHARP.genruntimeconfig.cache
